@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Dhruv Desai!
 
-<!--
-**Dhruv590/Dhruv590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am AWS Certified Machine Learning - Specialty certified and have a solid background in machine learning, data science, and software engineering.
 
-Here are some ideas to get you started:
+I am passionate about leveraging cutting-edge technology to solve real-world problems.  
+Currently, I’m diving deep into advanced machine learning techniques and big data technologies.  
+I’m eager to collaborate on innovative projects, especially those related to AI, ML, and autonomous systems.  
+My interests lie in AI/ML, big data, cloud computing, and developing intelligent solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+**Languages & Libraries:**
+- Python (Proficient), C/C++, NumPy, pandas, SciPy
+
+**Machine Learning:**
+- TensorFlow/PyTorch, JAX, scikit-learn, Spark ML, MLflow, llamaindex, LangChain
+
+**Big Data & Cloud:**
+- Spark, Kafka, Hadoop, AWS, Databricks, Hugging Face
+
+**Web Frameworks:**
+- Django, Rest API, Power BI, Tableau, Docker, Jira, Git
+
+**Databases:**
+- MySQL, PostgreSQL, MongoDB, NoSQL
+
+**Certification:**
+- AWS Certified Machine Learning - Specialty
+
+## Contact
+
+- **Email:** [dhruvdesaijobs@gmail.com](mailto:dhruvdesaijobs@gmail.com)
+- **LinkedIn:** [Dhruv Desai](https://www.linkedin.com/in/DhruvDesai)
+
+Let's connect and build something! 🚀
