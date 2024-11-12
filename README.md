@@ -25,11 +25,11 @@ My interests lie in AI/ML, big data, cloud computing, and developing intelligent
 - MySQL, PostgreSQL, MongoDB, NoSQL
 
 **Certification:**
-- AWS Certified Machine Learning - Specialty
+- [AWS Certified Machine Learning - Specialty](https://www.credly.com/badges/827e1714-0132-4473-a713-90a6b2a7a34d)
 
 ## Contact
 
-- **Email:** [dhruvdesaijobs@gmail.com](mailto:dhruvdesaijobs@gmail.com)
+- **Email:** [dhruvscu@gmail.com](mailto:dhruvscu@gmail.com)
 - **LinkedIn:** [Dhruv Desai](https://www.linkedin.com/in/DhruvDesai)
 
 Let's connect and build something! 🚀
